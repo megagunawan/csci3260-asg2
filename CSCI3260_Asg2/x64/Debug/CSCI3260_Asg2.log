@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\gunawanmega\desktop\csci3260_asg2\csci3260_asg2\main.cpp(491): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+c:\users\gunawanmega\desktop\csci3260_asg2\csci3260_asg2\main.cpp(550): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+c:\users\gunawanmega\desktop\csci3260_asg2\csci3260_asg2\main.cpp(609): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+  CSCI3260_Asg2.vcxproj -> C:\Users\gunawanmega\Desktop\CSCI3260_Asg2\x64\Debug\CSCI3260_Asg2.exe
+  CSCI3260_Asg2.vcxproj -> C:\Users\gunawanmega\Desktop\CSCI3260_Asg2\x64\Debug\CSCI3260_Asg2.pdb (Partial PDB)
